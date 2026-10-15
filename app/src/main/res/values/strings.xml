@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="xposed_description">给没有深色模式的 App 整体反色（保持色相），照片尽量保持原样。适配 Flutter 界面。</string>
+</resources>
